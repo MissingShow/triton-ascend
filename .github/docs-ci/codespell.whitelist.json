@@ -244,18 +244,14 @@
   "MTIA's",
   "NPUIR",
   "NVTX",
-<<<<<<< HEAD
   "Puyan",
   "Raoux",
   "Robeck",
   "TTGIR",
   "ttgir",
   "upstreamed",
-  "manylinux"
-=======
-  "CUPTI",
+  "manylinux",
   "shmem",
   "SHMEM",
   "msdebug"
->>>>>>> upstream/main
 ]
